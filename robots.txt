@@ -5,4 +5,3 @@ Disallow: /blog/tag/
 Disallow: /photos/tag/
 Disallow: /404/
 Disallow: /asset/photos/
-Disallow: /*.html$
